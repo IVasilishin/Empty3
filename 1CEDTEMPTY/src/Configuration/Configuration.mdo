@@ -36,4 +36,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ПервыйОбщийМодуль</commonModules>
+  <catalogs>Catalog.ПервыйСправочник</catalogs>
 </mdclass:Configuration>
