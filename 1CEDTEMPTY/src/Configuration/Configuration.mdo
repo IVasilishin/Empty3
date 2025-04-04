@@ -37,4 +37,5 @@
   </languages>
   <commonModules>CommonModule.ПервыйОбщийМодуль</commonModules>
   <catalogs>Catalog.ПервыйСправочник</catalogs>
+  <catalogs>Catalog.тест</catalogs>
 </mdclass:Configuration>
